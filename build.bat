@@ -1,0 +1,1 @@
+em++ main.cpp -o index.html -std=c++17 -Os -Wall -I include/ -L lib/ --shell-file shell.html
